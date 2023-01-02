@@ -17,3 +17,7 @@ If you want to practice writing client-side HTTP code against a live API, here a
 
 * [PokeAPI](https://pokeapi.co/)
 * [Star Wars API](https://swapi.dev/)
+
+## License
+
+You are free to use this content and code for personal education purposes. However, you are *not* authorized to publish this content or code elsewhere, wthether for commercial purposes or not. 
