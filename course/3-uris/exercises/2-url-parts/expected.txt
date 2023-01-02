@@ -1,0 +1,16 @@
+
+protocol: http:
+
+username: dragonslayer
+
+password: pwn3d
+
+hostname: fantasyquest.com
+
+port: 8080
+
+pathname: /maps
+
+search: ?sort=rank
+
+hash: #id

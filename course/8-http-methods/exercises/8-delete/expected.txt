@@ -1,0 +1,50 @@
+
+Logging user records:
+
+User uuid: 0194fdc2-fa2f-4cc0-81d3-ff12045b73c8, Character name: Grundorf, Class: Warrior, Level: 14, User: Lane
+
+User uuid: 52fdfc07-2182-454f-963f-5f0f9a621d72, Character name: Varus, Class: Fighter, Level: 1, User: Allan
+
+User uuid: 2f8282cb-e2f9-496f-b144-c0aa4ced56db, Character name: Velithria, Class: Wizard, Level: 6, User: Tim
+
+User uuid: 85fbe72b-6064-4890-84a5-31f967898df5, Character name: Myra, Class: Warlock, Level: 8, User: Sam
+
+User uuid: e2807d9c-1dce-46af-80ca-81d4fe11c23e, Character name: Vandil, Class: Hunter, Level: 9, User: Adam
+
+User uuid: c00913e0-2a63-44cf-932d-9b2ce282fad8, Character name: Horkin, Class: Ranger, Level: 6, User: Ben
+
+User uuid: 158fe87f-5cf3-4ff0-ae50-dbd3e81b2242, Character name: Jaina, Class: Rogue, Level: 8, User: Erika
+
+User uuid: f3ff4d45-1e42-4e18-a215-aaee06a2d64b, Character name: Goosk, Class: Paladin, Level: 6, User: Danielle
+
+User uuid: 5079832d-a0a3-4e4f-9cd6-fdfc633c0fa6, Character name: Aldwin, Class: Mage, Level: 8, User: Tiffany
+
+User uuid: a6fe1895-5d81-4770-afc9-1d5829f4464f, Character name: Artemis, Class: Cleric, Level: 1, User: John
+
+---
+
+Deleted user with id: 0194fdc2-fa2f-4cc0-81d3-ff12045b73c8
+
+---
+
+Logging user records:
+
+User uuid: 52fdfc07-2182-454f-963f-5f0f9a621d72, Character name: Varus, Class: Fighter, Level: 1, User: Allan
+
+User uuid: 2f8282cb-e2f9-496f-b144-c0aa4ced56db, Character name: Velithria, Class: Wizard, Level: 6, User: Tim
+
+User uuid: 85fbe72b-6064-4890-84a5-31f967898df5, Character name: Myra, Class: Warlock, Level: 8, User: Sam
+
+User uuid: e2807d9c-1dce-46af-80ca-81d4fe11c23e, Character name: Vandil, Class: Hunter, Level: 9, User: Adam
+
+User uuid: c00913e0-2a63-44cf-932d-9b2ce282fad8, Character name: Horkin, Class: Ranger, Level: 6, User: Ben
+
+User uuid: 158fe87f-5cf3-4ff0-ae50-dbd3e81b2242, Character name: Jaina, Class: Rogue, Level: 8, User: Erika
+
+User uuid: f3ff4d45-1e42-4e18-a215-aaee06a2d64b, Character name: Goosk, Class: Paladin, Level: 6, User: Danielle
+
+User uuid: 5079832d-a0a3-4e4f-9cd6-fdfc633c0fa6, Character name: Aldwin, Class: Mage, Level: 8, User: Tiffany
+
+User uuid: a6fe1895-5d81-4770-afc9-1d5829f4464f, Character name: Artemis, Class: Cleric, Level: 1, User: John
+
+---

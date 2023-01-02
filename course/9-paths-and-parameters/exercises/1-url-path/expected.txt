@@ -1,0 +1,70 @@
+
+Locations:
+
+ - {"discovered":false,"id":"0194fdc2-fa2f-4cc0-81d3-ff12045b73c8","name":"Bandit Camp","recommendedLevel":14}
+
+ - {"discovered":true,"id":"52fdfc07-2182-454f-963f-5f0f9a621d72","name":"Heartfin Marsh","recommendedLevel":1}
+
+ - {"discovered":false,"id":"2f8282cb-e2f9-496f-b144-c0aa4ced56db","name":"Irondeep","recommendedLevel":6}
+
+ - {"discovered":false,"id":"85fbe72b-6064-4890-84a5-31f967898df5","name":"Lakewood","recommendedLevel":8}
+
+ - {"discovered":true,"id":"e2807d9c-1dce-46af-80ca-81d4fe11c23e","name":"Silverfall","recommendedLevel":9}
+
+ - {"discovered":false,"id":"c00913e0-2a63-44cf-932d-9b2ce282fad8","name":"Southwatch","recommendedLevel":6}
+
+ - {"discovered":false,"id":"158fe87f-5cf3-4ff0-ae50-dbd3e81b2242","name":"The Starwood","recommendedLevel":8}
+
+ - {"discovered":false,"id":"f3ff4d45-1e42-4e18-a215-aaee06a2d64b","name":"Darkreach","recommendedLevel":6}
+
+ - {"discovered":false,"id":"5079832d-a0a3-4e4f-9cd6-fdfc633c0fa6","name":"Deeprock Valley","recommendedLevel":8}
+
+ - {"discovered":true,"id":"a6fe1895-5d81-4770-afc9-1d5829f4464f","name":"The Gorge","recommendedLevel":1}
+
+ --- 
+
+Items:
+
+ - {"id":"0194fdc2-fa2f-4cc0-81d3-ff12045b73c8","name":"Healing Potion","quality":4}
+
+ - {"id":"52fdfc07-2182-454f-963f-5f0f9a621d72","name":"Light Leather","quality":1}
+
+ - {"id":"2f8282cb-e2f9-496f-b144-c0aa4ced56db","name":"Padded Leather","quality":6}
+
+ - {"id":"85fbe72b-6064-4890-84a5-31f967898df5","name":"Haste Potion","quality":8}
+
+ - {"id":"e2807d9c-1dce-46af-80ca-81d4fe11c23e","name":"Leather Scraps","quality":9}
+
+ - {"id":"c00913e0-2a63-44cf-932d-9b2ce282fad8","name":"Copper Ore","quality":6}
+
+ - {"id":"158fe87f-5cf3-4ff0-ae50-dbd3e81b2242","name":"Copper Bar","quality":8}
+
+ - {"id":"f3ff4d45-1e42-4e18-a215-aaee06a2d64b","name":"Iron Ore","quality":6}
+
+ - {"id":"5079832d-a0a3-4e4f-9cd6-fdfc633c0fa6","name":"Iron Bar","quality":8}
+
+ - {"id":"a6fe1895-5d81-4770-afc9-1d5829f4464f","name":"Gold Ore","quality":1}
+
+ --- 
+
+Users:
+
+ - {"characterName":"Grundorf","class":"Warrior","id":"0194fdc2-fa2f-4cc0-81d3-ff12045b73c8","level":14,"pvpEnabled":false,"user":{"name":"Lane","location":"USA","age":27}}
+
+ - {"characterName":"Varus","class":"Fighter","id":"52fdfc07-2182-454f-963f-5f0f9a621d72","level":1,"pvpEnabled":true,"user":{"name":"Allan","location":"USA","age":27}}
+
+ - {"characterName":"Velithria","class":"Wizard","id":"2f8282cb-e2f9-496f-b144-c0aa4ced56db","level":6,"pvpEnabled":false,"user":{"name":"Tim","location":"USA","age":33}}
+
+ - {"characterName":"Myra","class":"Warlock","id":"85fbe72b-6064-4890-84a5-31f967898df5","level":8,"pvpEnabled":false,"user":{"name":"Sam","location":"AUS","age":29}}
+
+ - {"characterName":"Vandil","class":"Hunter","id":"e2807d9c-1dce-46af-80ca-81d4fe11c23e","level":9,"pvpEnabled":true,"user":{"name":"Adam","location":"AUS","age":29}}
+
+ - {"characterName":"Horkin","class":"Ranger","id":"c00913e0-2a63-44cf-932d-9b2ce282fad8","level":6,"pvpEnabled":false,"user":{"name":"Ben","location":"USA","age":34}}
+
+ - {"characterName":"Jaina","class":"Rogue","id":"158fe87f-5cf3-4ff0-ae50-dbd3e81b2242","level":8,"pvpEnabled":false,"user":{"name":"Erika","location":"USA","age":35}}
+
+ - {"characterName":"Goosk","class":"Paladin","id":"f3ff4d45-1e42-4e18-a215-aaee06a2d64b","level":6,"pvpEnabled":false,"user":{"name":"Danielle","location":"AUS","age":29}}
+
+ - {"characterName":"Aldwin","class":"Mage","id":"5079832d-a0a3-4e4f-9cd6-fdfc633c0fa6","level":8,"pvpEnabled":false,"user":{"name":"Tiffany","location":"USA","age":28}}
+
+ - {"characterName":"Artemis","class":"Cleric","id":"a6fe1895-5d81-4770-afc9-1d5829f4464f","level":1,"pvpEnabled":true,"user":{"name":"John","location":"CAN","age":22}}

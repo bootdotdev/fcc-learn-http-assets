@@ -1,0 +1,16 @@
+{
+  "name": "seo-link-analyzer",
+  "version": "1.0.0",
+  "description": "SEO link analyzer",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "wagslane",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "dependencies": {
+    "jsdom": "^20.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+
+Got old location:
+
+- name: Heartfin Marsh, recommendedLevel: 1
+
+---
+
+Location updated!
+
+---
+
+Got new location:
+
+- name: Bloodstone Swamp, recommendedLevel: 10
+
+---

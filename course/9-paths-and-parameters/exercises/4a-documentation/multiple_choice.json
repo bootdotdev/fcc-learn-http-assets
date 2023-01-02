@@ -1,0 +1,8 @@
+{
+  "question": "What should you do if the documentation isn't clear about how to use the API?",
+  "answers": [
+    "Contact the backend developers and ask for better docs or clarification",
+    "Keep trying random requests until you find something that works",
+    "Try to hack your way into the server"
+  ]
+}

@@ -1,0 +1,12 @@
+
+Applying 27 damage to player with 50 HP...
+
+...applyDamage resolved with: The player suffers 27 points of damage and has 23 hit points remaining.
+
+Applying 50 damage to player with 50 HP...
+
+...applyDamage rejected with: The player suffers 50 points of damage and has fallen unconscious.
+
+Applying 110 damage to player with 100 HP...
+
+...applyDamage rejected with: The player suffers 110 points of damage and has fallen unconscious.

@@ -1,0 +1,7 @@
+{
+  "question": "Why don't we require users to type in IP addresses directly to browse the web?",
+  "answers": [
+    "Domain names are easier for humans to remember, it's a better user experience",
+    "We probably would if we were the kind of developers who think auto-playing music on a website is a good idea"
+  ]
+}

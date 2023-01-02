@@ -1,0 +1,9 @@
+{
+  "question": "Async code should ____.",
+  "answers": [
+    "only be used for performance reasons",
+    "never be used",
+    "always be used",
+    "only be used on fast computers"
+  ]
+}

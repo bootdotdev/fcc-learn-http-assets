@@ -1,0 +1,20 @@
+
+got user with name: Varus, and level: 1
+
+got user with name: Artemis, and level: 1
+
+got user with name: Velithria, and level: 6
+
+got user with name: Horkin, and level: 6
+
+got user with name: Goosk, and level: 6
+
+got user with name: Jaina, and level: 8
+
+got user with name: Aldwin, and level: 8
+
+got user with name: Myra, and level: 8
+
+got user with name: Vandil, and level: 9
+
+got user with name: Grundorf, and level: 14

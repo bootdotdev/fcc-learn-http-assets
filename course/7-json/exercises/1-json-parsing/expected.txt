@@ -1,0 +1,22 @@
+
+Got some locations from the server.
+
+- name: Bandit Camp, recommendedLevel: 14
+
+- name: Heartfin Marsh, recommendedLevel: 1
+
+- name: Irondeep, recommendedLevel: 6
+
+- name: Lakewood, recommendedLevel: 8
+
+- name: Silverfall, recommendedLevel: 9
+
+- name: Southwatch, recommendedLevel: 6
+
+- name: The Starwood, recommendedLevel: 8
+
+- name: Darkreach, recommendedLevel: 6
+
+- name: Deeprock Valley, recommendedLevel: 8
+
+- name: The Gorge, recommendedLevel: 1

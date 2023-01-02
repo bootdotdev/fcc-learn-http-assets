@@ -1,0 +1,7 @@
+{
+  "question": "Only ports 80 and 443 can be used for HTTP/HTTPS traffic",
+  "answers": [
+    "False",
+    "True"
+  ]
+}

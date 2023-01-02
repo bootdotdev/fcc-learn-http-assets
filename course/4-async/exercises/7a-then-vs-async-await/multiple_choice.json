@@ -1,0 +1,9 @@
+{
+  "question": "'async' can be used in place of ____ and 'await' can be used in place of ____.",
+  "answers": [
+    "New Promise(), .then()",
+    ".then(), New Promise()",
+    ".then(), .catch()",
+    ".catch(), .then()"
+  ]
+}

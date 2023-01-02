@@ -1,0 +1,7 @@
+{
+  "question": "Which kind of code allows multiple processes to be run at the same time?",
+  "answers": [
+    "Asynchronous",
+    "Synchronous"
+  ]
+}

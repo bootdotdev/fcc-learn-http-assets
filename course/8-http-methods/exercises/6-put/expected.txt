@@ -1,0 +1,6 @@
+
+User uuid: 2f8282cb-e2f9-496f-b144-c0aa4ced56db, Character Name: Velithria, Class: Wizard, Level: 6, PVP Status: false, User name: Tim
+
+Updating user with id: 2f8282cb-e2f9-496f-b144-c0aa4ced56db
+
+User uuid: 2f8282cb-e2f9-496f-b144-c0aa4ced56db, Character Name: Dellbiar, Class: Warrior, Level: 7, PVP Status: true, User name: Allan

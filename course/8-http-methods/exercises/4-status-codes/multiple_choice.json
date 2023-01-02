@@ -1,0 +1,9 @@
+{
+  "question": "A successful response returns a ____ status code",
+  "answers": [
+    "2XX",
+    "5XX",
+    "1XX",
+    "4XX"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "seo-link-analyzer",
+  "version": "1.0.0",
+  "description": "SEO link analyzer",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "wagslane"
+}

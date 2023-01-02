@@ -1,0 +1,8 @@
+{
+  "question": "Any computer can be a server, but the best servers are special made for serving data",
+  "answers": [
+    "True",
+    "False, only computers in data-centers can be servers",
+    "False, all computers are equally good at serving data"
+  ]
+}

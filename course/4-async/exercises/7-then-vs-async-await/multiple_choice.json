@@ -1,0 +1,8 @@
+{
+  "question": "____ is generally the cleaner syntax",
+  "answers": [
+    "async / await",
+    "New Promise() / .then()",
+    "It doesn't matter, use what you feel like that day"
+  ]
+}

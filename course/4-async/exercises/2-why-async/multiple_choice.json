@@ -1,0 +1,7 @@
+{
+  "question": "Which is simpler to understand and work with?",
+  "answers": [
+    "Synchronous code",
+    "Asynchronous code"
+  ]
+}

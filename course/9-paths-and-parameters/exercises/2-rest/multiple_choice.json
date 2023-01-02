@@ -1,0 +1,7 @@
+{
+  "question": "RESTful servers communicate the state of resources, they don't expose access to arbitrary server commands",
+  "answers": [
+    "True",
+    "False"
+  ]
+}

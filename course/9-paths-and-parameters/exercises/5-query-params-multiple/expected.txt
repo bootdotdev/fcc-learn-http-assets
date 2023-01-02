@@ -1,0 +1,28 @@
+
+Looting common treasure chest...
+
+Acquired a Light Leather with quality score: 1
+
+---
+
+Looting rare treasure chest...
+
+Acquired a Light Leather with quality score: 1
+
+Acquired a Gold Ore with quality score: 1
+
+Acquired a Healing Potion with quality score: 4
+
+---
+
+Looting legendary treasure chest...
+
+Acquired a Light Leather with quality score: 1
+
+Acquired a Gold Ore with quality score: 1
+
+Acquired a Healing Potion with quality score: 4
+
+Acquired a Padded Leather with quality score: 6
+
+Acquired a Copper Ore with quality score: 6

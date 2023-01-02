@@ -1,0 +1,2 @@
+
+The player with 50 hit points suffers 25 points of damage and has 25 hit points remaining.

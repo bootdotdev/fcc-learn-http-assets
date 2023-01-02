@@ -1,0 +1,9 @@
+{
+  "question": "Does a backend server need to adhere to RESTful standards?",
+  "answers": [
+    "No, but it's a common convention designed to create better APIs",
+    "No, it's generally a bad idea",
+    "Yes, if it doesn't it's an insecure server",
+    "Yes, otherwise the requests will fail"
+  ]
+}

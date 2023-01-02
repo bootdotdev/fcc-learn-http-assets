@@ -1,0 +1,7 @@
+{
+  "question": "PUT typically updates _____ while PATCH updates ____",
+  "answers": [
+    "entire resources, a partial resource",
+    "a partial resource, entire resources"
+  ]
+}
