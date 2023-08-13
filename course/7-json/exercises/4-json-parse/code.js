@@ -17,6 +17,7 @@ parseLocation(`
 	"id": "0194fdc2-fa2f-4cc0-81d3-ff12045b73c8",
 	"name": "Bandit Camp",
 	"recommendedLevel": 14
+ }
 `)
 
 console.log('---')
